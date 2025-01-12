@@ -40,3 +40,5 @@ npm run build
 ```shell
 npm start
 ```
+For Backed Database go for :- https://www.mongodb.com/
+For Free Hosting go for :- https://render.com/
